@@ -1,7 +1,7 @@
 # SeqAlign-plot
 Generate publication-ready (Nature formatting standards) visual alignments for nucleotide and amino acid FASTA sequences using Matplotlib and Biopython.
 
-For nucleotide alignments use nt_alignment_visuals.py
+For nucleotide alignments use nt_alignment_visuals.py  
 For amino acid alignments use aa_alignment_visuals.py
 
 ## Features
