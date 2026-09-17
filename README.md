@@ -9,3 +9,4 @@ Generate publication-ready (Nature formatting standards) visual alignments for n
 ## Nucleotide alignment:
 
 ## Amino acid alignment:
+![Figure Preview](images/P47_aa_alignment_publication-1.png)
