@@ -7,6 +7,7 @@ Generate publication-ready (Nature formatting standards) visual alignments for n
 - **Stacked Block Splitting**: Automatically subdivides long alignments into readable, stacked multi-row blocks with top position rulers.
 
 ## Nucleotide alignment:
+![Figure Preview](images/alignment_publication-1.png)
 
 ## Amino acid alignment:
 ![Figure Preview](images/P47_aa_alignment_publication-1.png)
